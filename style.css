@@ -1,0 +1,36 @@
+.container {
+    margin-bottom: 100px;
+}
+
+.buy-now {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #000;
+    color: #fff;
+}
+
+.heading {
+    margin-bottom: 30px;
+}
+
+.heading h3 {
+    font-size: 1.5em;
+}
+
+.heading h4 {
+    font-size: 1em;
+    color: orange;
+    cursor: pointer;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+
+.card h5 {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
