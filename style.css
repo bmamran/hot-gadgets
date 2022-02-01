@@ -34,3 +34,23 @@
     font-size: 20px;
     padding-bottom: 10px;
 }
+
+.category-part h2 {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.cat-item {
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.cat-sub-it {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 10px;
+}
